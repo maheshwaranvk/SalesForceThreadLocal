@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="22637" started-at="2021-04-11T13:05:45 IST" finished-at="2021-04-11T13:06:07 IST">
+  <suite name="Default suite" duration-ms="25804" started-at="2021-04-11T22:46:39 IST" finished-at="2021-04-11T22:47:05 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="22637" started-at="2021-04-11T13:05:45 IST" finished-at="2021-04-11T13:06:07 IST">
-      <class name="testCase.SAL65">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testCase.SAL65@23fe1d71]" name="launchBrowser" is-config="true" duration-ms="4307" started-at="2021-04-11T13:05:45 IST" finished-at="2021-04-11T13:05:49 IST">
+    <test name="Default test" duration-ms="25804" started-at="2021-04-11T22:46:39 IST" finished-at="2021-04-11T22:47:05 IST">
+      <class name="testCase.SAL66">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:testCase.SAL66@23fe1d71]" name="launchBrowser" is-config="true" duration-ms="4416" started-at="2021-04-11T22:46:40 IST" finished-at="2021-04-11T22:46:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="editServiceTemplates()[pri:0, instance:testCase.SAL65@23fe1d71]" name="editServiceTemplates" duration-ms="18298" started-at="2021-04-11T13:05:49 IST" finished-at="2021-04-11T13:06:07 IST">
+        <test-method status="PASS" signature="createParentTerritory()[pri:0, instance:testCase.SAL66@23fe1d71]" name="createParentTerritory" duration-ms="21358" started-at="2021-04-11T22:46:44 IST" finished-at="2021-04-11T22:47:05 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- editServiceTemplates -->
-      </class> <!-- testCase.SAL65 -->
+        </test-method> <!-- createParentTerritory -->
+      </class> <!-- testCase.SAL66 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

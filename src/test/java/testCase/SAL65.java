@@ -32,7 +32,5 @@ public class SAL65 extends WrapperClass{
 		.verifyServiceTerritoryModifiedDate(modifiedDate);
 		
 		getAs().assertAll();
-		
-
 	}
 }
